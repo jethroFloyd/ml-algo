@@ -1,5 +1,5 @@
 This is a master repository for different machine learning algorithms, mostly pertaining to pattern recognition.
 
-Currently this contains the NSGA-2 algorithm.
+Currently this contains the NSGA-2 algorithm and AMOSA algorithm.
 
 In time, data-sets will also be added.
